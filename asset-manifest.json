@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Responsive_Login_SignUp/static/css/main.8d69f6a1.css",
+    "main.js": "/Responsive_Login_SignUp/static/js/main.3eafbfbd.js",
+    "index.html": "/Responsive_Login_SignUp/index.html",
+    "main.8d69f6a1.css.map": "/Responsive_Login_SignUp/static/css/main.8d69f6a1.css.map",
+    "main.3eafbfbd.js.map": "/Responsive_Login_SignUp/static/js/main.3eafbfbd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d69f6a1.css",
+    "static/js/main.3eafbfbd.js"
+  ]
+}
